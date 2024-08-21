@@ -20,8 +20,8 @@
 
 ### Table of Contents
 
-| No. | Questions |
-|---- | ---------
+| No. | Questions | Status |  
+|---- | --------- | ------ |  
 |1 | [What is Angular Framework?](#what-is-angular-framework)|
 |2 | [What is the difference between AngularJS and Angular?](#what-is-the-difference-between-angularjs-and-angular)|
 |3 | [What is TypeScript?](#what-is-typescript)|
